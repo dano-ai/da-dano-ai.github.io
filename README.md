@@ -1,4 +1,3 @@
-(문의: [dano@dano.ai](mailto: dano@dano.ai))
 
 ## 스타트업을 위한 서비스
 이미 Product-Market fit을 찾아서 시리즈 A 투자를 완료하고 데이터 분석을 통해서 **빠르게 J-curve를 만들고자 하는 스타트업**을 돕는 서비스입니다.
