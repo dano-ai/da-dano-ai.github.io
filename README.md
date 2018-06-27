@@ -20,7 +20,7 @@
 
 미래창조과학부의 **소프트웨어 마에스트로 과정의 멘토**로서 수 년간 유망한 소프트웨어 엔지니어들의 성장을 위해 서비스 기획부터 아키텍처, 설계, 구현, QA, 운영 등에 이르기까지 Full Product Life Cycle을 직접 체험할 수 있도록 멘토링한 바 있습니다.
 
-[![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button-24px.png)](https://www.linkedin.com/in/danolee/)
+[![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button.png)](https://www.linkedin.com/in/danolee/)
  
 ## 문의
 데이터 기반의 그로스 해킹 서비스가 필요한 스타트업이라면 [메일](mailto:dano@dano.ai)로 연락 주세요.
