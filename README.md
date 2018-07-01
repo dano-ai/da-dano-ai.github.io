@@ -25,6 +25,6 @@
 
 [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button.png)](https://www.linkedin.com/in/danolee/)
  
-## 문의 및 상담 요청
-[지금 바로 상담 신청하러 가기](https://goo.gl/UKtBp3)
+## 상담 신청
+[지금 바로 무료 상담 신청하기](https://goo.gl/UKtBp3)
 
