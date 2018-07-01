@@ -22,6 +22,6 @@
 
 [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button.png)](https://www.linkedin.com/in/danolee/)
  
-## 문의
-데이터 기반의 그로스 해킹 서비스가 필요한 스타트업이라면 [메일](mailto:dano@dano.ai)로 연락 주세요.
+## 문의 및 상담 요청
+[지금 바로 상담 신청하러 가기](https://goo.gl/UKtBp3)
 
