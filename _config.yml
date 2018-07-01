@@ -3,3 +3,4 @@ description: 빠르게 J-curve를 만들고자 하는 스타트업을 위한 서
 show_downloads: false
 # google_analytics: UA-120670016-1
 theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
