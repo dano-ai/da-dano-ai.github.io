@@ -1,8 +1,7 @@
 title: 데이터 기반 그로스 해킹 컨설팅
 description: 빠르게 J-curve를 만들고자 하는 스타트업을 위한 서비스
 show_downloads: false
-# google_analytics: UA-120670016-1
-# theme: jekyll-theme-tactile
+google_analytics: UA-121802136-1
 theme: jekyll-theme-slate
 
 github:
