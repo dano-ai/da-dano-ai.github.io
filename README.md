@@ -27,16 +27,17 @@
 ### 주요 경력
 - 2008 한국 최대 규모의 3-Screen UX 컨설팅 프로젝트인 **SKT G1 프로젝트 총괄**
 - 2009 세계 최대 게임 회사인 **Electronic Arts의 한국 모바일 사업 담당 이사**
-- 2012 **AD fresca** 설립: LiveOps SaaS for Mobile Games 
+- 2012 **AD fresca** 설립: LiveOps SaaS for Mobile Games and Commerce
 - 2014 미국 샌프란시스코에 **Nudge Now** 설립: Mobile Marketing Automation SaaS
 
 [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button.png)](https://www.linkedin.com/in/danolee/) [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/email-button.png)](mailto:dano@dano.ai)
 
 ### 고객사
-SKT, 현대카드, 넥슨, NHN 엔터테인먼트, 네오위즈, 게임빌, 네시삼십삼분, 10x10, TNK Factory
+SparkLabs, SKT, 현대카드, 넥슨, NHN 엔터테인먼트, 네오위즈, 게임빌, 네시삼십삼분, 10x10, TNK Factory
 
  
 ## 상담 신청
+dano.ai의 무료 상담을 받을 수 있습니다.
 [ [무료 상담 신청하기](https://goo.gl/UKtBp3) ]
 
 ## FAQ
@@ -67,4 +68,4 @@ Q. VC/엑셀러레이터인데 우리 포트폴리오 회사들을 위한 컨설
 > A. VC/엑셀러레이터와 계약을 맺고 포트폴리오 회사들을 위해 **오피스 아워 (office hour)** 를 진행하고 있습니다. [이메일](mailto:dano@dano.ai)로 연락 주세요.
 
 Q. 저희 투자사에서도 그로스 해킹 **오피스 아워**가 진행되는지 어떻게 확인할 수 있나요?
-> A. 투자사에 그로스해킹 컨설팅 서비스를 받을 수 있는지 문의해 보세요.
+> A. 투자사에 dano.ai의 그로스해킹 컨설팅 서비스를 받을 수 있는지 문의해 보세요.
