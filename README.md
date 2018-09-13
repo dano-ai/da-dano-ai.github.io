@@ -2,7 +2,7 @@
 **이미 Product-Market fit을 찾아서 시리즈 A 투자를 완료하고 데이터 분석을 통해 빠르게 J-curve를 만들고자 하는 스타트업**을 돕는 코칭 서비스입니다.
 
 ## 프로세스
-아래 순서에 따라 데이터 분석의 기본부터 마케팅 자동화까지 데이터 기반의 그로스 해킹을 통해 스타트업의 비즈니스 목표를 달성하기 위해 한발씩 나아갑니다. 필요에 따라 **워크샵, 트레이닝, 협업 등의 다양한 방법으로 업무를 추진함과 동시에 데이터 분석 역량과 문화를 기를 수 있도록 돕습니다.**
+아래 순서에 따라 데이터 분석의 기본부터 마케팅 자동화까지 데이터 기반의 그로스 해킹을 통해 스타트업의 비즈니스 목표를 달성하기 위해 한 발씩 나아갑니다. 필요에 따라 **워크샵, 트레이닝, 협업 등의 다양한 방법으로 업무를 추진함과 동시에 데이터 분석 역량과 문화를 기를 수 있도록 돕습니다.**
 
 ### 1. 당신의 고객은 누구입니까?
 경영진과 함께 Product-Market Fit과 aha moment!를 구체적으로 리뷰하고 모든 활동의 중심이 되는 단 하나의 지표, MTM (Metric That Matters)을 정의합니다.
@@ -35,7 +35,7 @@
 [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/linkedin-button.png)](https://www.linkedin.com/in/danolee/) [![Image of Yaktocat](https://d2a08gotq8viav.cloudfront.net/web-pages/icons/email-button.png)](mailto:dano@dano.ai)
 
 ### 고객사
-- VC/액셀러레이터: **SparkLabs**
+- VC/액셀러레이터: **롯데 액셀러레이터**, **SparkLabs**
 - 스타트업: 튜터링, 더클로젯컴퍼니, 유저해빗, 마이박스, 10x10, TNK Factory
 - 중견 및 대기업: SKT, 현대카드, 넥슨, NHN 엔터테인먼트, 네오위즈, 게임빌, 네시삼십삼분
 
